@@ -1,0 +1,7 @@
+{
+  "name": "LogiDocas - Gestão de Transportadora e Docas",
+  "description": "Sistema integrado de controle operacional de pátio e 14 docas para transportadoras, com monitoramento em tempo real, fluxo de veículos, KPIs de ocupação e relatórios com impressão.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
